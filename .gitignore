@@ -1,0 +1,19 @@
+# Excluded project folders
+Task1/
+Presentation/
+DataSample/
+
+# IDE
+.idea/
+
+# CatBoost training artifacts
+Source Code/catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
